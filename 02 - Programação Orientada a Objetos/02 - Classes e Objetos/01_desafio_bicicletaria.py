@@ -26,5 +26,5 @@ b1.parar()
 print(b1.cor, b1.modelo, b1.ano, b1.valor)
 
 b2 = Bicicleta("verde", "monark", 2000, 189)
-print(b2)
+print(b1)
 b2.correr()
